@@ -1,0 +1,11 @@
+body {
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    height: 100vh;
+}
+#counter {
+    color: white;
+    font-size: 40px;
+}
